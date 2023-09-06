@@ -4,7 +4,8 @@
 
 <p>demo main</p>
 <select>
-<option>bank1></option>
+<option>bank1</option>
+<option>bank2</option>
 </select>
 </body>
 </html>
