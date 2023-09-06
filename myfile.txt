@@ -1,12 +1,19 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> payment
 <html>
 <head></head>
 <body>
 
 <p>demo main</p>
+<select>
+<option>bank1></option>
+</select>
 </body>
+<<<<<<< HEAD
 </html>
 =======
 >>>>>>> parent of afdbd7f (set structured code for page)
@@ -14,3 +21,6 @@
 >>>>>>> parent of afdbd7f (set structured code for page)
 =======
 >>>>>>> parent of afdbd7f (set structured code for page)
+=======
+</html>
+>>>>>>> payment
