@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <html>
 <head></head>
 <body>
@@ -5,3 +6,5 @@
 <p>demo main</p>
 </body>
 </html>
+=======
+>>>>>>> parent of afdbd7f (set structured code for page)
