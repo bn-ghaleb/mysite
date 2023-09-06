@@ -1,13 +1,10 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 <html>
 <head></head>
 <body>
 
 <p>demo main</p>
+<select>
+<option>bank1></option>
+</select>
 </body>
 </html>
-=======
->>>>>>> parent of afdbd7f (set structured code for page)
-=======
->>>>>>> parent of afdbd7f (set structured code for page)
